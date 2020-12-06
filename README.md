@@ -1,8 +1,4 @@
-# AI-ML
-Learn AI and ML 
-
-
-
+# Project - Face Mask Detection and Face Recognition 
 
 Project Goal:
 To Ensure Safe Office Environment, employees should cover their face with Mask and maintain Social distance to limit the spread of the Corona virus. This is essential to implement post-Covid normal working in office. Identify employees who are not wearing face Mask and following social distancing while entering office or ODC floor.
